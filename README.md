@@ -37,7 +37,7 @@ Calculators, reference datasets, and starter kits for fintech and SaaS developer
 ## Tech I work with
 
 **Backend:** Node.js, Python, Go, PostgreSQL, Redis, Kafka, gRPC  
-**Frontend:** React, TypeScript, Next.js, Vite  
+**Frontend:** React, Vite 5, TypeScript, Next.js, Three.js, d3.js   
 **FinTech:** Stripe, Plaid, Adyen, MQL5, MT5, FIX protocol  
 **Cloud:** AWS (EKS, RDS, Lambda, SQS), GCP (GKE, BigQuery, Vertex AI), Nginx  
 **DevOps:** Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana  
