@@ -41,7 +41,7 @@ Calculators, reference datasets, and starter kits for fintech and SaaS developer
 
 **Data and ML:** NumPy, pandas, scikit-learn, PyTorch, SciPy, statsmodels, Matplotlib, Plotly, Apache Spark. 
 
-**AI:** LangChain, LlamaIndex, OpenAI API, Anthropic API, Pinecone, Qdrant, RAG pipelines.  
+**AI/LLMs:** LangChain, LlamaIndex, OpenAI API, Anthropic API, Pinecone, Qdrant, RAG pipelines.  
 **Cloud:** AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx.   
 **DevOps:** Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana, ArgoCD. 
 
