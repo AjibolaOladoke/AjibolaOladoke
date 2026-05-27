@@ -36,12 +36,12 @@ Calculators, reference datasets, and starter kits for fintech and SaaS developer
 
 ## Tech I work with
   
-**Backend:** Node.js, Python, Go, SQL, FastAPI, Solidity, R, Express, PostgreSQL, Redis, Kafka, gRPC, REST, GraphQL  
-**Frontend:** React, Next.js, Typescript, Vite, Tailwind CSS
-**Data and ML:** NumPy, pandas, scikit-learn, PyTorch, SciPy, statsmodels, Matplotlib, Plotly, Apache Spark  
-**AI:** LangChain, LlamaIndex, OpenAI API, Anthropic API, Pinecone, Qdrant, RAG pipelines  
-**Cloud:** AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx  
-**DevOps:** Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana, ArgoCD
+**Backend:** Node.js, Python, Go, SQL, FastAPI, Solidity, R, Express, PostgreSQL, Redis, Kafka, gRPC, REST, GraphQL.   
+**Frontend:** React, Next.js, Typescript, Vite, Tailwind CSS. 
+**Data and ML:** NumPy, pandas, scikit-learn, PyTorch, SciPy, statsmodels, Matplotlib, Plotly, Apache Spark. 
+**AI:** LangChain, LlamaIndex, OpenAI API, Anthropic API, Pinecone, Qdrant, RAG pipelines.  
+**Cloud:** AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx.   
+**DevOps:** Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana, ArgoCD. 
 
 **Quant and FinTech:** MQL5, MT5, FIX protocol, Backtrader, VectorBT, QuantLib, CCXT, pandas-ta, ta-lib, Zipline, PyAlgoTrade  
 **Quant methods:** Monte Carlo simulation, Black-Scholes, mean-variance optimization, pairs trading, order flow analysis, backtesting, walk-forward testing, risk-adjusted returns (Sharpe, Sortino, Calmar)  
