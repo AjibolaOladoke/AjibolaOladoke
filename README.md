@@ -2,11 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=C9A227&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Ajibola+Oladoke;Founder+%26+CEO+%7C+Swift+Tech+Co.;FinTech+%7C+AI+Automation+%7C+SaaS+%7C+Cloud;Toronto-based.+Building+globally." alt="Typing SVG" />
 
-<br/>
+</div>
 
 <img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/banner.png" width="100%" alt="Swift Tech Co." />
 
-<br/><br/>
+<div align="center">
+
+<br/>
 
 <a href="https://swifttechco.com"><img src="https://img.shields.io/badge/swifttechco.com-C9A227?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/stephenoladoke/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -132,24 +134,11 @@ AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx, Kub
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AjibolaOladoke&show_icons=true&theme=github_dark&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=ffffff&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=AjibolaOladoke&theme=github-dark-blue&hide_border=true&stroke=C9A227&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&background=0d1117" width="49%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjibolaOladoke&layout=compact&theme=github_dark&hide_border=true&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=10" width="49%" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AjibolaOladoke&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" width="100%" alt="GitHub Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjibolaOladoke&theme=react-dark&hide_border=true&color=C9A227&line=C9A227&point=ffffff&bg_color=0d1117" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjibolaOladoke&theme=github-dark-blue&hide_border=true&stroke=C9A227&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&background=0d1117" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -184,7 +173,9 @@ AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx, Kub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/wolf.jpg" width="80%" alt="Wolf" />
+<img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/wolf.jpg" width="75%" alt="Wolf" />
+
+<br/>
 
 *The wolf does not perform for the sheep.*
 
