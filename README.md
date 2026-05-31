@@ -6,35 +6,29 @@
 
 ## About
 
-I am the Founder and CEO of [Swift Tech Co.](https://swifttechco.com), a software engineering firm based in Toronto, ON. We build production-grade technology across FinTech, AI automation, SaaS, and cloud infrastructure.
+I build production-grade software for companies that need it done right the first time. Founded [Swift Tech Co.](https://swifttechco.com) to deliver across the full spectrum: FinTech platforms, AI automation, SaaS infrastructure, blockchain systems, cloud architecture, cybersecurity, and SEO.
 
-I lead technical strategy, architecture, and delivery across all client engagements, taking products from concept to production. My background spans quantitative finance, blockchain and DeFi systems, full-stack engineering, and enterprise DevOps. I write code daily across the full stack: frontend, backend, infrastructure, and data pipelines.
+My background runs deep across quantitative finance, full-stack engineering, and enterprise DevOps. I write code daily: frontend to backend, infrastructure to data pipelines, and everything in between.
 
-We work with fintech companies, growth-stage startups, and enterprise clients who need software that scales, stays secure, and moves fast.
+Clients range from fintech startups and neobanks to growth-stage SaaS companies and enterprise teams. The through-line is always the same: software that scales, stays secure, and ships on time.
+
+**Based in Toronto. Building globally.**
 
 ---
 
 <div align="center">
 
 ```
-                    ████████
-               ████          ████
-            ███    ▄▄    ▄▄    ███
-           ██    █    ██    █    ██
-          ██   ██      ██      ██  █
-         ██   ██        ██      ██  █
-        ███  ██          ██      ██  █
-        ██   ██   ████   ██       ██ █
-        ██    ██▄      ▄██        ██ █
-         ██    ████████          ██  █
-          ██                    ██  ██
-           ███                ████  █
-            █████          █████   ██
-              ██████████████       ██
-                  ██████          ██
-                    ████         ██
-                      ██       ███
-                       ████████
+          /\                 /\
+         /  \               /  \
+        / /\ \             / /\ \
+       / /  \ \           / /  \ \
+      /_/ /\_\_\  ██████ /_/ /\_\_\
+         / /\/_/  ██  ██    / /\/_/
+        / /       ██████   / /
+       / /        ██  ██  / /
+      /_/         ██  ██ /_/
+
 ```
 
 *The wolf does not perform for the sheep.*
@@ -45,10 +39,10 @@ We work with fintech companies, growth-stage startups, and enterprise clients wh
 
 ## What I'm working on
 
-- FinTech platforms: payment gateways, neobanks, algo trading systems, and open banking integrations
-- AI automation: LLM-powered workflows, RAG pipelines, and process automation for B2B clients
-- SaaS infrastructure: multi-tenant architectures, subscription billing, and scalable backends
-- Open-source tools for developers building in the fintech and SaaS space
+- **Company platform:** full-stack React + Vite SPA for [swifttechco.com](https://swifttechco.com), covering FinTech, AI automation, cloud infrastructure, cybersecurity, SEO, and API integration services end to end
+- **Autonomous media infrastructure:** 12 specialized agents running 6 YouTube channels with fully automated content production, scheduling, distribution, and analytics, zero manual intervention
+- **Strategic Infrastructure Intelligence OS:** a Bloomberg Terminal equivalent built for infrastructure, land, and industrial development across Canada, with real-time signal detection, market data aggregation, and investment forecasting
+- **Enterprise intelligence platform:** production-grade monorepo for real-time signal detection, entity resolution, predictive forecasting, and risk analysis, built to scale across large datasets and high-throughput event streams
 
 ---
 
@@ -98,6 +92,7 @@ Calculators, reference datasets, and starter kits for fintech and SaaS developer
 ## Connect
 
 - Website: [swifttechco.com](https://swifttechco.com)
-- LinkedIn: [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
