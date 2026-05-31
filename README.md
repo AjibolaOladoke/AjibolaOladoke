@@ -148,11 +148,24 @@ AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx, Kub
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjibolaOladoke&theme=github-dark-blue&hide_border=true&stroke=C9A227&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&background=0d1117" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=AjibolaOladoke&show_icons=true&theme=github_dark&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=ffffff&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjibolaOladoke&theme=github-dark-blue&hide_border=true&stroke=C9A227&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&background=0d1117" width="49%" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjibolaOladoke&layout=compact&theme=github_dark&hide_border=true&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=10&include_all_commits=true" width="49%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AjibolaOladoke&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" width="100%" alt="GitHub Trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjibolaOladoke&theme=react-dark&hide_border=true&color=C9A227&line=C9A227&point=ffffff&bg_color=0d1117" width="100%" alt="Activity Graph" />
 
 </div>
 
