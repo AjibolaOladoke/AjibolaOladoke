@@ -7,7 +7,6 @@
 <img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/banner.png" width="100%" alt="Swift Tech Co." />
 
 <div align="center">
-
 <br/>
 
 <a href="https://swifttechco.com"><img src="https://img.shields.io/badge/swifttechco.com-C9A227?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
@@ -26,6 +25,15 @@
 
 ## About
 
+<table>
+<tr>
+<td width="38%" align="center">
+<img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/wolf.jpg" width="100%" alt="Wolf" />
+<br/>
+<em>The wolf does not perform for the sheep.</em>
+</td>
+<td width="62%" valign="top">
+
 I build production-grade software for companies that need it done right the first time. Founded [Swift Tech Co.](https://swifttechco.com) to deliver across the full spectrum: FinTech platforms, AI automation, SaaS infrastructure, blockchain systems, cloud architecture, cybersecurity, and SEO.
 
 My background runs deep across quantitative finance, full-stack engineering, and enterprise DevOps. I write code daily: frontend to backend, infrastructure to data pipelines, and everything in between.
@@ -33,6 +41,10 @@ My background runs deep across quantitative finance, full-stack engineering, and
 Clients range from fintech startups and neobanks to growth-stage SaaS companies and enterprise teams. The through-line is always the same: software that scales, stays secure, and ships on time.
 
 **Based in Toronto. Building globally.**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -47,7 +59,7 @@ Clients range from fintech startups and neobanks to growth-stage SaaS companies 
 
 - **Company platform:** full-stack React + Vite SPA for [swifttechco.com](https://swifttechco.com), covering FinTech, AI automation, cloud infrastructure, cybersecurity, SEO, and API integration services end to end
 - **Autonomous media infrastructure:** 12 specialized agents running 6 YouTube channels with fully automated content production, scheduling, distribution, and analytics, zero manual intervention
-- **Strategic Infrastructure Intelligence OS:** Strategic infrastructure, land, and industrial development across Canada, with real-time signal detection, market data aggregation, and investment forecasting
+- **Strategic Infrastructure Intelligence OS:** a Bloomberg Terminal equivalent built for infrastructure, land, and industrial development across Canada, with real-time signal detection, market data aggregation, and investment forecasting
 - **Enterprise intelligence platform:** production-grade monorepo for real-time signal detection, entity resolution, predictive forecasting, and risk analysis, built to scale across large datasets and high-throughput event streams
 
 ---
@@ -168,15 +180,3 @@ AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx, Kub
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/wolf.jpg" width="75%" alt="Wolf" />
-
-<br/>
-
-*The wolf does not perform for the sheep.*
-
-</div>
