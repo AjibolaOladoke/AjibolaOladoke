@@ -2,7 +2,44 @@
 
 **Founder and CEO at [Swift Tech Co.](https://swifttechco.com) · Toronto, ON**
 
-I build production-grade software for fintech companies, SaaS platforms, and growth-stage startups. My work spans the full stack: from quant trading infrastructure and payment processing to AI automation pipelines and cloud-native deployments.
+---
+
+## About
+
+I am the Founder and CEO of [Swift Tech Co.](https://swifttechco.com), a software engineering firm based in Toronto, ON. We build production-grade technology across FinTech, AI automation, SaaS, and cloud infrastructure.
+
+I lead technical strategy, architecture, and delivery across all client engagements, taking products from concept to production. My background spans quantitative finance, blockchain and DeFi systems, full-stack engineering, and enterprise DevOps. I write code daily across the full stack: frontend, backend, infrastructure, and data pipelines.
+
+We work with fintech companies, growth-stage startups, and enterprise clients who need software that scales, stays secure, and moves fast.
+
+---
+
+<div align="center">
+
+```
+                    ████████
+               ████          ████
+            ███    ▄▄    ▄▄    ███
+           ██    █    ██    █    ██
+          ██   ██      ██      ██  █
+         ██   ██        ██      ██  █
+        ███  ██          ██      ██  █
+        ██   ██   ████   ██       ██ █
+        ██    ██▄      ▄██        ██ █
+         ██    ████████          ██  █
+          ██                    ██  ██
+           ███                ████  █
+            █████          █████   ██
+              ██████████████       ██
+                  ██████          ██
+                    ████         ██
+                      ██       ███
+                       ████████
+```
+
+*The wolf does not perform for the sheep.*
+
+</div>
 
 ---
 
@@ -35,21 +72,26 @@ Calculators, reference datasets, and starter kits for fintech and SaaS developer
 ---
 
 ## Tech I work with
-  
-**Backend:** Node.js, Python, Go, SQL, FastAPI, Solidity, R, Express, PostgreSQL, Redis, Kafka, gRPC, REST, GraphQL.   
-**Frontend:** React, Next.js, Typescript, Vite, Tailwind CSS. 
 
-**Data and ML:** NumPy, pandas, scikit-learn, PyTorch, SciPy, statsmodels, Matplotlib, Plotly, Apache Spark. 
+**Backend:** Node.js, Python, Go, SQL, FastAPI, Solidity, R, Express, PostgreSQL, Redis, Kafka, gRPC, REST, GraphQL.
 
-**AI/LLMs:** LangChain, LlamaIndex, OpenAI API, Anthropic API, Pinecone, Qdrant, RAG pipelines.  
-**Cloud:** AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx.   
-**DevOps:** Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana, ArgoCD. 
+**Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS.
 
-**Quant and FinTech:** MQL5, MT5, FIX protocol, Backtrader, VectorBT, QuantLib, CCXT, pandas-ta, ta-lib, Zipline, PyAlgoTrade  
-**Quant methods:** Monte Carlo simulation, Black-Scholes, mean-variance optimization, pairs trading, order flow analysis, backtesting, walk-forward testing, risk-adjusted returns (Sharpe, Sortino, Calmar)  
-**Financial data:** Bloomberg API, Refinitiv Eikon, Alpha Vantage, Polygon.io, Yahoo Finance, Interactive Brokers TWS API, Alpaca, dYdX  
-**Payments and banking:** Stripe, Plaid, Adyen, Wise, Dwolla, Marqeta, Unit, FDX API, Open Banking (UK PSD2, CFPB 1033) etc
+**Data and ML:** NumPy, pandas, scikit-learn, PyTorch, SciPy, statsmodels, Matplotlib, Plotly, Apache Spark.
 
+**AI / LLMs:** LangChain, LlamaIndex, OpenAI API, Anthropic API, Pinecone, Qdrant, RAG pipelines.
+
+**Cloud:** AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx.
+
+**DevOps:** Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana, ArgoCD.
+
+**Quant and FinTech:** MQL5, MT5, FIX protocol, Backtrader, VectorBT, QuantLib, CCXT, pandas-ta, ta-lib, Zipline, PyAlgoTrade.
+
+**Quant methods:** Monte Carlo simulation, Black-Scholes, mean-variance optimization, pairs trading, order flow analysis, backtesting, walk-forward testing, risk-adjusted returns (Sharpe, Sortino, Calmar).
+
+**Financial data:** Bloomberg API, Refinitiv Eikon, Alpha Vantage, Polygon.io, Yahoo Finance, Interactive Brokers TWS API, Alpaca, dYdX.
+
+**Payments and banking:** Stripe, Plaid, Adyen, Wise, Dwolla, Marqeta, Unit, FDX API, Open Banking (UK PSD2, CFPB 1033).
 
 ---
 
