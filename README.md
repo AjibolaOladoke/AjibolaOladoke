@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/stephenoladoke/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.linkedin.com/company/swift-tech-co"><img src="https://img.shields.io/badge/Swift_Tech_Co-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/MrOladoke"><img src="https://img.shields.io/badge/@MrOladoke-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/mr.oladoke/"><img src="https://img.shields.io/badge/@mr.oladoke-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/swifttechco/"><img src="https://img.shields.io/badge/@swifttechco-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/Swift-Tech-Co"><img src="https://img.shields.io/badge/Swift--Tech--Co-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
@@ -179,4 +181,6 @@ AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx, Kub
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
