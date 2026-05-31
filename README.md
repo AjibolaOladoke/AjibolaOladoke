@@ -63,6 +63,9 @@ Clients range from fintech startups and neobanks to growth-stage SaaS companies 
 - **Autonomous media infrastructure:** 12 specialized agents running 6 YouTube channels with fully automated content production, scheduling, distribution, and analytics, zero manual intervention
 - **Strategic Infrastructure Intelligence OS:** Strategic infrastructure, land, and industrial development across Canada, with real-time signal detection, market data aggregation, and investment forecasting
 - **Enterprise intelligence platform:** production-grade monorepo for real-time signal detection, entity resolution, predictive forecasting, and risk analysis, built to scale across large datasets and high-throughput event streams
+- **IRE Citadel Quant:** institutional-grade quantamental investment management firm, fusing systematic rules-based models with deep research, every strategy validated before capital deployment, no discretionary guesswork, built on proprietary execution infrastructure at scale — [irecitadelquant.com](https://www.irecitadelquant.com)
+- **USCM Freight Management LLC:** asset-light motor carrier and digital freight platform for Amazon Relay operations, powering real-time dispatch, driver onboarding, load tracking, and financial settlement automation for owner-operators across the US
+- **Healthcare Compliance and Consulting Platform:** integrated SaaS compliance management and expert consulting for home healthcare agencies, automating audit workflows, document management, training tracking, and real-time compliance scoring, paired with hands-on regulatory support
 
 ---
 
