@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/banner.png" width="100%" alt="Swift Tech Co. Banner" />
+<img src="https://raw.githubusercontent.com/AjibolaOladoke/AjibolaOladoke/main/banner.png" width="100%" alt="Swift Tech Co." />
 
 <br/><br/>
 
@@ -60,6 +60,10 @@ Clients range from fintech startups and neobanks to growth-stage SaaS companies 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+React, Next.js, TypeScript, Vite, Tailwind CSS
+
+---
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -69,12 +73,20 @@ Clients range from fintech startups and neobanks to growth-stage SaaS companies 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+Node.js, Python, Go, SQL, FastAPI, Solidity, R, Express, PostgreSQL, Redis, Kafka, gRPC, REST, GraphQL
+
+---
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+PostgreSQL, Redis, Supabase, MongoDB
+
+---
 
 **AI / ML / LLMs**
 
@@ -83,6 +95,10 @@ Clients range from fintech startups and neobanks to growth-stage SaaS companies 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+LangChain, LlamaIndex, OpenAI API, Anthropic API, Pinecone, Qdrant, RAG pipelines, NumPy, pandas, scikit-learn, PyTorch, SciPy, statsmodels, Matplotlib, Plotly, Apache Spark
+
+---
 
 **Cloud and DevOps**
 
@@ -95,12 +111,24 @@ Clients range from fintech startups and neobanks to growth-stage SaaS companies 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+AWS (EKS, RDS, Lambda, SQS, Bedrock), GCP (GKE, BigQuery, Vertex AI), Nginx, Kubernetes, Docker, Terraform, GitHub Actions, Prometheus, Grafana, ArgoCD
+
+---
+
 **FinTech and Quant**
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Frameworks:** MQL5, MT5, FIX protocol, Backtrader, VectorBT, QuantLib, CCXT, pandas-ta, ta-lib, Zipline, PyAlgoTrade
+
+**Methods:** Monte Carlo simulation, Black-Scholes, mean-variance optimization, pairs trading, order flow analysis, backtesting, walk-forward testing, Sharpe / Sortino / Calmar ratios
+
+**Data:** Bloomberg API, Refinitiv Eikon, Alpha Vantage, Polygon.io, Yahoo Finance, Interactive Brokers TWS API, Alpaca, dYdX
+
+**Payments and banking:** Stripe, Plaid, Adyen, Wise, Dwolla, Marqeta, Unit, FDX API, Open Banking (UK PSD2, CFPB 1033)
 
 ---
 
