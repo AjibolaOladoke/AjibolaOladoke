@@ -47,7 +47,7 @@ Clients range from fintech startups and neobanks to growth-stage SaaS companies 
 
 - **Company platform:** full-stack React + Vite SPA for [swifttechco.com](https://swifttechco.com), covering FinTech, AI automation, cloud infrastructure, cybersecurity, SEO, and API integration services end to end
 - **Autonomous media infrastructure:** 12 specialized agents running 6 YouTube channels with fully automated content production, scheduling, distribution, and analytics, zero manual intervention
-- **Strategic Infrastructure Intelligence OS:** a Bloomberg Terminal equivalent built for infrastructure, land, and industrial development across Canada, with real-time signal detection, market data aggregation, and investment forecasting
+- **Strategic Infrastructure Intelligence OS:** Strategic infrastructure, land, and industrial development across Canada, with real-time signal detection, market data aggregation, and investment forecasting
 - **Enterprise intelligence platform:** production-grade monorepo for real-time signal detection, entity resolution, predictive forecasting, and risk analysis, built to scale across large datasets and high-throughput event streams
 
 ---
